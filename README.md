@@ -1,19 +1,6 @@
 # GameStop-Stock-and-Revenue-Data-Web-Scraping-Project
 This project involves web scraping and data extraction for GameStop's stock prices and revenue. The extracted data is visualized using Dash to create interactive dashboards.
 
-Table of Contents:
-- Project Description
-- Technologies Used
-- Code Structure
-- Installation
-- Usage
-- Features
-- Data Visualization
-- Contributing
-- License
-- Authors
-- FAQ
-
 Project Description:
 This project uses web scraping techniques to gather financial data related to GameStop. The data includes historical stock prices and annual revenue figures, which are then used to create an interactive dashboard.
 
